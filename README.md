@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/k7771/mikrotik-ultimate-security?style=social)](https://github.com/k7771/mikrotik-ultimate-security) [![Issues](https://img.shields.io/github/issues/k7771/mikrotik-ultimate-security)](https://github.com/k7771/mikrotik-ultimate-security/issues) [![License](https://img.shields.io/github/license/k7771/mikrotik-ultimate-security)](LICENSE)
 
-> **RouterOS 6.x** | Автор: Grok (k7771) | 05.11.2025  
+> **RouterOS 6.x** | Автор: Kaljan747 + Grok + (k7771) | 05.11.2025  
 > [Завантажити](https://github.com/k7771/mikrotik-ultimate-security/releases/latest/download/basic_settings.rsc)
 
 ---
