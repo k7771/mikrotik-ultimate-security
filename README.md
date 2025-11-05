@@ -1,5 +1,5 @@
 ```markdown
-# MikroTik ULTIMATE SECURITY v10.0  
+# MikroTik ULTIMATE SECURITY
 **`basic_settings.rsc` — Максимальний захист + GeoIP + DPI**
 
 [![Stars](https://img.shields.io/github/stars/k7771/mikrotik-ultimate-security?style=social)](https://github.com/k7771/mikrotik-ultimate-security) [![Issues](https://img.shields.io/github/issues/k7771/mikrotik-ultimate-security)](https://github.com/k7771/mikrotik-ultimate-security/issues) [![License](https://img.shields.io/github/license/k7771/mikrotik-ultimate-security)](LICENSE)
